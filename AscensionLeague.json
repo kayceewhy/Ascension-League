@@ -1,6 +1,6 @@
 {
 	"Name": "Ascension League",
-	"Version": 1785910810,
+	"Version": 1787621263,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -68,6 +68,7 @@
 				"94",
 				"99",
 				"100",
+				"103",
 				"275",
 				"105",
 				"110",
@@ -120,6 +121,7 @@
 				"176",
 				"177",
 				"277",
+				"178",
 				"180",
 				"310",
 				"182",
@@ -297,6 +299,7 @@
 				"3",
 				"11",
 				"21",
+				"246",
 				"39",
 				"44",
 				"308",
@@ -356,7 +359,9 @@
 				"113",
 				"314"
 			],
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"150"
+			],
 			"SurvivorComboPerkBans": [],
 			"KillerComboPerkBans": []
 		}
@@ -415,7 +420,7 @@
 		},
 		{
 			"Name": "The Wraith",
-			"KillerNotes": "Putrid Oak should only be brought on Hawkin's or Midwich, otherwise please bring Cut Coin.",
+			"KillerNotes": "Putrid Oak should only be brought on Hawkin's or Midwich, otherwise please bring Cut Coin. Dead Man's Switch is BANNED on indoors.\n",
 			"IsDisabled": false,
 			"Map": [
 				"32",
@@ -680,7 +685,9 @@
 				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
+			"KillerIndvPerkBans": [
+				"150"
+			],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
@@ -1722,7 +1729,7 @@
 		{
 			"Name": "The Executioner",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -1855,7 +1862,7 @@
 		{
 			"Name": "The Twins",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				0
 			],
@@ -2622,7 +2629,7 @@
 		},
 		{
 			"Name": "The Good Guy",
-			"KillerNotes": "Putrid Oak should only be brought if playing on Hawkin's or Midwich, otherwise please bring Cut Coin.",
+			"KillerNotes": "Putrid Oak should only be brought if playing on Hawkin's or Midwich, otherwise please bring Cut Coin. Dead Man's Switch is BANNED on indoors.",
 			"IsDisabled": false,
 			"Map": [
 				"32",
@@ -3041,7 +3048,10 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				775,
-				778
+				778,
+				772,
+				773,
+				776
 			],
 			"ItemWhitelist": [
 				0,
@@ -3081,7 +3091,7 @@
 		},
 		{
 			"Name": "The Animatronic",
-			"KillerNotes": "Putrid Oak should only be brought if playing on Hawkin's, otherwise please bring Cut Coin.",
+			"KillerNotes": "Putrid Oak should only be brought if playing on Hawkin's, otherwise please bring Cut Coin. Dead Man's Switch is BANNED on indoors.",
 			"IsDisabled": false,
 			"Map": [
 				"4",
