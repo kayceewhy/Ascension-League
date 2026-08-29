@@ -1,6 +1,6 @@
 {
 	"Name": "Ascension League",
-	"Version": 1787621263,
+	"Version": 1788023586,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -21,6 +21,7 @@
 				"17",
 				"18",
 				"19",
+				"318",
 				"20",
 				"73",
 				"22",
@@ -44,6 +45,7 @@
 				"267",
 				"46",
 				"49",
+				"319",
 				"262",
 				"55",
 				"274",
@@ -66,6 +68,7 @@
 				"89",
 				"90",
 				"94",
+				"320",
 				"99",
 				"100",
 				"103",
@@ -101,6 +104,7 @@
 				"138",
 				"140",
 				"141",
+				"315",
 				"146",
 				"147",
 				"148",
@@ -127,12 +131,14 @@
 				"182",
 				"183",
 				"243",
+				"316",
 				"185",
 				"265",
 				"187",
 				"188",
 				"194",
 				"256",
+				"317",
 				"195",
 				"196",
 				"197",
@@ -3376,6 +3382,57 @@
 			"KillerOfferings": [
 				5
 			]
+		},
+		{
+			"Name": "The Judgment",
+			"KillerNotes": "",
+			"IsDisabled": true,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }
