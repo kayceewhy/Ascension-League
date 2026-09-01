@@ -1,6 +1,6 @@
 {
 	"Name": "Ascension League",
-	"Version": 1788023586,
+	"Version": 1788237566,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -52,6 +52,7 @@
 				"252",
 				"59",
 				"62",
+				"313",
 				"66",
 				"67",
 				"269",
@@ -186,6 +187,10 @@
 				[
 					"78",
 					"36"
+				],
+				[
+					"50",
+					"128"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -1256,6 +1261,10 @@
 				[
 					"160",
 					"210"
+				],
+				[
+					"132",
+					"220"
 				]
 			],
 			"SurvivorIndvPerkBans": [
@@ -1269,7 +1278,9 @@
 				"64",
 				"69"
 			],
-			"SurvivorComboPerkBans": [],
+			"SurvivorComboPerkBans": [
+				[]
+			],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
@@ -1409,7 +1420,8 @@
 			"IndividualAddonBans": [
 				290,
 				297,
-				298
+				298,
+				279
 			],
 			"ItemWhitelist": [
 				0,
