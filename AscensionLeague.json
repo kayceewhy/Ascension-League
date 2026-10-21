@@ -1,6 +1,6 @@
 {
 	"Name": "Ascension League",
-	"Version": 1791939873,
+	"Version": 1792558362,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1274,7 +1274,7 @@
 		},
 		{
 			"Name": "The Spirit",
-			"KillerNotes": "",
+			"KillerNotes": "A2 and 2B are banned from use.",
 			"IsDisabled": false,
 			"Map": [
 				"0",
@@ -2585,7 +2585,9 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
-				"308"
+				"308",
+				"102",
+				"127"
 			],
 			"SurvivorComboPerkBans": [
 				[
@@ -3368,7 +3370,7 @@
 			"Map": [
 				"0",
 				"4",
-				"8"
+				"7"
 			],
 			"BalanceTiers": [
 				0,
@@ -3381,7 +3383,12 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
+			"KillerComboPerkBans": [
+				[
+					"160",
+					"210"
+				]
+			],
 			"SurvivorIndvPerkBans": [
 				"300",
 				"21",
@@ -3405,7 +3412,8 @@
 				853,
 				854,
 				855,
-				858
+				858,
+				851
 			],
 			"ItemWhitelist": [
 				0,
